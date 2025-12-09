@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Devraj070<br>👀 I’m interested in mern stack development and java development<br>🌱 I’m currently learning MCA<br>💞️ I’m looking to collaborate on mern projects<br>📫 How to reach me - Devraj070<br>😄 Pronouns: He/Him<br>⚡ Fun fact: sometimes equal is not equal in javascript.
+👋 Hi, I’m @Devraj070<br>👀 I’m interested in mern stack development or Next.js development<br>🌱 I’m currently working at SpiderVision Systems as software developer<br>💞️ I’m looking to collaborate on mern projects or Next.js projects<br>📫 How to reach me - Devraj070<br>😄 Pronouns: He/Him<br>⚡ Fun fact: sometimes equal is not equal in javascript.
 
 
 # 💻 Tech Stack:
