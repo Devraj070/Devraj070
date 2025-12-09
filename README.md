@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Devraj070<br>👀 I’m interested in mern stack development or Next.js development<br>🌱 I’m currently working at SpiderVision Systems as software developer<br>💞️ I’m looking to collaborate on mern projects or Next.js projects<br>📫 How to reach me - <i>debarajmalik05@gmail.com</i><br>😄 Pronouns: He/Him<br>⚡ Fun fact: sometimes equal is not equal in javascript.<br></hr><b>NOTE: If you are looking for my contributions green dots then i want to say that im not working in public repo , im working in private repo, contact me to judge my knowlegde and contributions and live projects</b>
+👋 Hi, I’m @Devraj070<br>👀 I’m interested in mern stack development or Next.js development<br>🌱 I’m currently working at SpiderVision Systems as software developer<br>💞️ I’m looking to collaborate on mern projects or Next.js projects<br>📫 How to reach me - <i>debarajmalik05@gmail.com</i><br>😄 Pronouns: He/Him<br>⚡ Fun fact: sometimes equal is not equal in javascript.<br></hr><b>NOTE: If you are looking for my contributions green dots then i want to say that im not working in public repo , im working in private repo, contact me to see my contributions and live projects real world projects</b>
 
 
 # 💻 Tech Stack:
